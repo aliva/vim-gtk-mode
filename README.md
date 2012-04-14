@@ -7,7 +7,7 @@ easier)
 
 [Vala Syntax](http://live.gnome.org/Vala/Vim)
 
-Version: 2009-10-28
+Version: 2012-02-19
 
 Files: syntax/vala.vim
 
